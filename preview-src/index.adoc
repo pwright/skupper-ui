@@ -15,7 +15,7 @@ Vis no velit audiam, sonet <<dependencies,praesent>> eum ne.
 Integer diam enim, dignissim eget eros et, ultricies mattis odio.
 Vestibulum consectetur nec urna a luctus.
 Quisque pharetra tristique arcu fringilla dapibus.
-Curabitur ut massa aliquam, cursus enim et, accumsan lectus.
+https://example.org[Curabitur,role=unresolved] ut massa aliquam, cursus enim et, accumsan lectus.
 
 == Cu solet
 
@@ -84,6 +84,17 @@ src/
     java/
       HelloWorldTest.java
 ....
+
+Eu mea munere vituperata constituam.
+
+[%autowidth]
+|===
+|Input | Output
+
+m|"foo\nbar"
+l|foo
+bar
+|===
 
 Select menu:File[Open Project] to open the project in your IDE.
 Per ea btn:[Cancel] inimicus.
@@ -230,6 +241,14 @@ Mauris eget leo nunc, nec tempus mi? Curabitur id nisl mi, ut vulputate urna.
 Quisque porta facilisis tortor, vitae bibendum velit fringilla vitae! Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Mauris eget leo nunc, nec tempus mi? Curabitur id nisl mi, ut vulputate urna.
 Quisque porta facilisis tortor, vitae bibendum velit fringilla vitae!
+____
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+[verse]
+____
+The fog comes
+on little cat feet.
 ____
 
 == Fin
